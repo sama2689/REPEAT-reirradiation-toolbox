@@ -1,4 +1,4 @@
-# Reirradiation Image Registration
+# The **Re**irradiation **P**lan **E**valuation and Dose **A**ccumulation **T**oolbox (REPEAT) 
 
 An open-source Python framework for image registration and cumulative dose assessment in radiotherapy reirradiation.
 
